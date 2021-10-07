@@ -1,0 +1,9 @@
+Como há uma dificuldade da equipe em realizar as entregas periódicas, o método Scrum, por meio do Trello, auxilia a equipe a priorizar o que deve ser entregue logo em seguida sem perder tempo com outros detalhes que podem ser resolvidos posteriormente, o que consiste no princípio da abstração do pensamento computacional.
+Para quando haver mudanças no escopo do projeto, o scrum também auxilia a definir quem fará as alterações e o que é de urgência, não atrapalhando o andamento do projeto como um todo e entregando no prazo determinado.
+As atividades entregues serão realocadas para a lista de "feito", assim como as que estão sendo realizadas no momento estarão "em andamento" colocando a equipe sempre atualizada do que falta finalizar e o que já foi entregue.
+
+
+
+
+
+Acredito que as que melhor representam o manifesto ágil seja a XP, pela forma em que têm-se entregas no menor prazo possível focando na simplicidade, com reflexões sobre o que foi feito no projeto em determinado tempo e sempre dando foco em satisfazer o cliente. A mais assertiva eu julgo que seja o Scrum mesmo, é a mais objetiva, confiando que cada um da equipe fará seu trabalho e com mais foco no desenvolvimento como um todo do projeto.
